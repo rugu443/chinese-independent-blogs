@@ -1332,6 +1332,7 @@
 | [Feed](https://yvling.cn/rss) | 喻灵的博客 | https://yvling.cn/ | 网络安全; 技术 |
 | None | 叶夕青兮 | https://erl.im/ | 文学; 小说 |
 | [Feed](https://blog.zhilu.cyou/atom.xml) | 纸鹿摸鱼处 | https://blog.zhilu.cyou/ | 技术; 生活; 随笔 |
+| [Feed](https://www.x8xx.cn/feed) | 树洞笔记 | https://www.x8xx.cn/ | 技术; 网络安全；路由交换; 随笔 |
 ## 什么是独立博客
 
 - 拥有自己的域名
